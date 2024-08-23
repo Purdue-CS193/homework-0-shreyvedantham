@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Shrey Vedantham's First CS192 Homework
+
+- I love how it is an informal class.
+- I love how the people teaching it are only a year above me.
+- I like the lecture hall it is in. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
